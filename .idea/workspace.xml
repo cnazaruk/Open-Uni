@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed2e7da2-2b65-4754-9e94-9b6304fdbba0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TaskFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TaskFourB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TaskFourDetails" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TaskThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TaskThreeDetails" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OpenUni/TaskZeroB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OpenUni/TaskZeroB.class" afterDir="false" />
-    </list>
+    <list default="true" id="ed2e7da2-2b65-4754-9e94-9b6304fdbba0" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,20 +15,11 @@
       <file leaf-file-name="TaskFourB.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/TaskFourB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-144">
+            <state relative-caret-position="90">
               <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TaskFourDetails" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TaskFourDetails">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="103" selection-start-line="15" selection-start-column="103" selection-end-line="15" selection-end-column="103" />
             </state>
           </provider>
         </entry>
@@ -51,6 +34,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Chloe Nazaruk &lt;chloe@nazdevelopment.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -219,6 +207,14 @@
       <option name="presentableId" value="Default" />
       <updated>1537278323251</updated>
     </task>
+    <task id="LOCAL-00001" summary="Starting work on Tasks 3 and 4">
+      <created>1539089690008</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1539089690008</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -227,18 +223,18 @@
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32756132" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49928573" visible="true" weight="0.32756132" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.32900432" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5007143" side_tool="true" weight="0.32756132" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.32756132" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.32756132" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info id="UI Designer" order="1" />
@@ -255,6 +251,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Starting work on Tasks 3 and 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Starting work on Tasks 3 and 4" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/TaskZero.java">
@@ -651,13 +651,6 @@
         <state relative-caret-position="-11" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TaskFourDetails">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="103" selection-start-line="15" selection-start-column="103" selection-end-line="15" selection-end-column="103" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/TaskOne.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
@@ -685,9 +678,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/TaskFourDetails">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="103" selection-start-line="15" selection-start-column="103" selection-end-line="15" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/TaskFourB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-144">
+        <state relative-caret-position="90">
           <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
